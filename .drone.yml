@@ -1,4 +1,4 @@
-image: 7imbrook/build
+image: 7imbrook/builder
 
 build:
   image: alpine
